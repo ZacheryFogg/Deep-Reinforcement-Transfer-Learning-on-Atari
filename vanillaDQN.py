@@ -80,7 +80,7 @@ model.add(Dense(nb_actions))
 model.add(Activation('linear'))
 print(model.summary())
 
-num_training_steps = 1000
+num_training_steps = 1500000
 
 memory = SequentialMemory(limit=1000000, window_length=WINDOW_LENGTH)
 processor = AtariProcessor()
