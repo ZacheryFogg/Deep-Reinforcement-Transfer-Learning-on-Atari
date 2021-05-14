@@ -12,3 +12,6 @@ keras-rl/DoubleDuelingDQN.py - an attempt to see if using double q-learning and 
       
       
 ppo.py  - My implementation of PPO. This file went through many iterations as I changed environments. The code in this file will currently just run PPO on the Alien environment for a few 1000 timesteps to prove the functionality
+
+
+ppo agent: https://colab.research.google.com/drive/12IE1zIhwgbuj2Zl2YgMCgcxKZ37wq7uH?pli=1#scrollTo=ZbCORSgSvXXg
