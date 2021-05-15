@@ -11,7 +11,7 @@ keras-rl/dqn.py - Same architecuture as my own dqn to make sure that my model wa
 keras-rl/DoubleDuelingDQN.py - an attempt to see if using double q-learning and dueling architectures could help performance before I took the time to implement it on my own
       
 This was an implementation of PPO on a simple game so that I could learn how it works, but for the overall project, the Stable Baselines version was much faster
-toy_ppo.ipynb  - https://colab.research.google.com/drive/1IAe3Xqa2uhYp3ENXLbg6mLawZEdFrcMA#scrollTo=dBxj7oNm2LqD
+toy_ppo_implementation.ipynb  - https://colab.research.google.com/drive/1IAe3Xqa2uhYp3ENXLbg6mLawZEdFrcMA#scrollTo=dBxj7oNm2LqD
 
 Most of the project was spent in this file: 
 actual_PPO.ipnb: https://colab.research.google.com/drive/12IE1zIhwgbuj2Zl2YgMCgcxKZ37wq7uH?pli=1#scrollTo=ZbCORSgSvXXg
