@@ -1,3 +1,14 @@
+# CS 354 - Deep Learning - Final Project 
+### Deep Reinforcment Learning on Atari Game Evironments
+
+MsPacman Atari. Deep PPO2 agent performance after 50 million timesteps: 
+https://youtu.be/D7TaQlnpcc4
+
+
+Alien Atari. Deep PPO2 agent performance after 120 million timesteps: 
+https://youtu.be/rqCMpbm1v7g
+
+
 Files in repository:
 
 DQN.ipynb - My initial attempt at a dqn from scratch, uses environment functionality from StableBaselines3: https://github.com/DLR-RM/stable-baselines3
